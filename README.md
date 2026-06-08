@@ -1,6 +1,8 @@
 # Health Really Matters ❤️‍🩹
 
-A health-awareness website developed in 2022 as part of a school Biology project and later showcased at my school's STEAM Fair.
+(Note: This project was made in 2022, but I decided to upload it to GitHub in 2026 to keep it safe :D)
+
+This was a health-awareness website developed in 2022 as part of a school Biology project and later showcased at my school's STEAM Fair.
 
 During the COVID-19 pandemic, misinformation about health and disease was widespread online. This project was created to provide accessible health information from reputable medical sources and encourage users to learn more about important health topics. In addition to COVID-19 educational content, the website also covers other medical conditions, such as arrhythmia, to promote broader health awareness.
 
